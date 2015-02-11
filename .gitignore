@@ -1,0 +1,8 @@
+*~
+*.o
+*.BAK
+*.elf
+*.exe
+*.out
+*.lst
+
