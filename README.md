@@ -1,8 +1,7 @@
 # micomfs
 低機能ファイルシステム
 
-概要
----
+## 概要
 非常に低機能なファイルシステムです。
 マイコンでログを取るなどの簡単な目的に利用することができます。
 
@@ -13,6 +12,5 @@
 * 巨大なファイルを扱える
 * 単純
 
-LICENSE
--------
-This software is licensed under the MIT License.
+## LICENSE
+This project is licensed under the terms of the MIT license.
